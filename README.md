@@ -86,6 +86,12 @@ Interactive dashboard featuring:
 4. Execute SQL queries in PostgreSQL
 5. Open Tableau dashboard for interactive visualization
 
+ Dashboard Made with Tableau
+
+Here’s your clickable link labeled **“Dashboard Link”**:
+
+👉 [Dashboard Link](https://drive.google.com/file/d/1psZXGyXVbTjU-bf85LRrdhGuR-PFOQ3r/view?usp=sharing)
+
 
 
 ## 👤 Author
